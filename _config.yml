@@ -3,4 +3,4 @@ logo: /assets/img/jqb.png
 description: Our research and teaching projects.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
